@@ -1,0 +1,32 @@
+{
+    "name": "EXX Labs Default",
+    "timestamp": "2023-01-18T14:45:36.473Z",
+    "version": {
+        "major": 7,
+        "minor": 0,
+        "patch": 0
+    },
+    "tags": {},
+    "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+    "keywords": [
+        "exx",
+        "default"
+    ],
+    "tokens": [
+        {
+            "name": "Wrapped EXX",
+            "address": "0x84156E848cD8c188762D0D97BA551441aF308c05",
+            "symbol": "WEXX",
+            "decimals": 18,
+            "chainId": 137,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "extensions": {
+                "bridgeInfo": {
+                    "47": {
+                        "tokenAddress": "0x84156E848cD8c188762D0D97BA551441aF308c05"
+                    }
+                }
+            }
+        }
+    ]
+}
