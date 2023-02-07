@@ -27,6 +27,21 @@
                     }
                 }
             }
+        },
+        {
+            "name": "EXX Token",
+            "address": "0x590A6FEFAb7DEc6b9176A13f56a20116d7645209",
+            "symbol": "EXT",
+            "decimals": 18,
+            "chainId": 47,
+            "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
+            "extensions": {
+                "bridgeInfo": {
+                    "47": {
+                        "tokenAddress": "0x590A6FEFAb7DEc6b9176A13f56a20116d7645209"
+                    }
+                }
+            }
         }
     ]
 }
