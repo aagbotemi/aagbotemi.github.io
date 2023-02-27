@@ -29,8 +29,8 @@
             }
         },
         {
-            "name": "EXX Token",
-            "address": "0x590A6FEFAb7DEc6b9176A13f56a20116d7645209",
+            "name": "EXX Network",
+            "address": "0x9483EacFAE3275211AB92836426A1E2a3491AcBE",
             "symbol": "EXT",
             "decimals": 18,
             "chainId": 47,
@@ -38,22 +38,22 @@
             "extensions": {
                 "bridgeInfo": {
                     "47": {
-                        "tokenAddress": "0x590A6FEFAb7DEc6b9176A13f56a20116d7645209"
+                        "tokenAddress": "0x9483EacFAE3275211AB92836426A1E2a3491AcBE"
                     }
                 }
             }
         },
         {
-            "name": "EXX Token 2",
-            "address": "0x4cEd7C24F0F26F7797fE3E819f329aB0E7299760",
-            "symbol": "EXT2",
+            "name": "EXX Token",
+            "address": "0x40195EEcF9998123bB2af449039945bc81E9D451",
+            "symbol": "EXT",
             "decimals": 18,
             "chainId": 47,
             "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png",
             "extensions": {
                 "bridgeInfo": {
                     "47": {
-                        "tokenAddress": "0x4cEd7C24F0F26F7797fE3E819f329aB0E7299760"
+                        "tokenAddress": "0x40195EEcF9998123bB2af449039945bc81E9D451"
                     }
                 }
             }
